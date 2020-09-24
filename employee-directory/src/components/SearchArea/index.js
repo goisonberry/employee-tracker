@@ -7,7 +7,7 @@ function SearchArea(props) {
       <input
         type="text"
         placeholder="search"
-        onchange={(e) => props.employeeSearch(e)}
+        onChange={(e) => props.employeeSearch(e)}
       />
     </div>
   );

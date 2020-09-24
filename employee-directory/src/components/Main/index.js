@@ -15,7 +15,7 @@ export default class Main extends Component {
       console.log("data", data);
       this.setState({
         employees: data.data.results,
-        filteredEmployees: data.date.results,
+        filteredEmployees: data.data.results,
       });
     });
   }
