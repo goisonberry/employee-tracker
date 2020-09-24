@@ -1,5 +1,5 @@
 import React from "react";
-//add styling later on here
+import "./wrapperstyle.css";
 
 function Wrapper(props) {
   return <main className="wrapper" {...props} />;
