@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 
 function EmployeeSearch() {
-  <div></div>;
+  return;
+  <div>{/* handles the search for employee */}</div>;
 }
 export default EmployeeSearch;

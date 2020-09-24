@@ -5,9 +5,11 @@ import "./style.css";
 function Navbar() {
   return (
     <nav className="navbar navbar-light bg-light">
-      <div>
+      <div className="navbar-colapse row" id="navBar">
         {/* import employee search box here */}
-        <EmployeeSearch />
+        <EmployeeSearch
+        // handleSearchChange={handleSearchChange}
+        />
       </div>
     </nav>
   );
