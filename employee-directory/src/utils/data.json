@@ -1,0 +1,450 @@
+{
+  "results": [
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Jimmy",
+        "last": "Gibson"
+      },
+      "email": "jimmy.gibson@example.com",
+      "dob": {
+        "date": "1959-11-05T06:17:58.890Z",
+        "age": 61
+      },
+      "phone": "(049)-966-0351",
+      "id": {
+        "name": "SSN",
+        "value": "699-70-5711"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/87.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Ms",
+        "first": "Wendy",
+        "last": "Rhodes"
+      },
+      "email": "wendy.rhodes@example.com",
+      "dob": {
+        "date": "1983-02-26T14:55:46.150Z",
+        "age": 37
+      },
+      "phone": "(971)-526-7964",
+      "id": {
+        "name": "SSN",
+        "value": "384-52-0145"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/47.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Ms",
+        "first": "Brianna",
+        "last": "Robinson"
+      },
+      "email": "brianna.robinson@example.com",
+      "dob": {
+        "date": "1992-08-18T18:27:23.295Z",
+        "age": 28
+      },
+      "phone": "(343)-847-4978",
+      "id": {
+        "name": "SSN",
+        "value": "135-96-6664"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Ritthy",
+        "last": "Barrett"
+      },
+      "email": "ritthy.barrett@example.com",
+      "dob": {
+        "date": "1963-09-12T02:51:43.155Z",
+        "age": 57
+      },
+      "phone": "(828)-455-1794",
+      "id": {
+        "name": "SSN",
+        "value": "823-60-7957"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Miss",
+        "first": "Eva",
+        "last": "Jackson"
+      },
+      "email": "eva.jackson@example.com",
+      "dob": {
+        "date": "1980-10-29T05:49:33.273Z",
+        "age": 40
+      },
+      "phone": "(991)-042-2860",
+      "id": {
+        "name": "SSN",
+        "value": "467-29-1737"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/91.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Rafael",
+        "last": "Nguyen"
+      },
+      "email": "rafael.nguyen@example.com",
+      "dob": {
+        "date": "1969-10-02T16:52:08.135Z",
+        "age": 51
+      },
+      "phone": "(204)-777-9561",
+      "id": {
+        "name": "SSN",
+        "value": "093-07-0502"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Ms",
+        "first": "Clara",
+        "last": "Moreno"
+      },
+      "email": "clara.moreno@example.com",
+      "dob": {
+        "date": "1978-07-13T20:34:19.606Z",
+        "age": 42
+      },
+      "phone": "(369)-408-3567",
+      "id": {
+        "name": "SSN",
+        "value": "742-34-6948"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/80.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Greg",
+        "last": "Pearson"
+      },
+      "email": "greg.pearson@example.com",
+      "dob": {
+        "date": "1958-08-16T08:57:19.073Z",
+        "age": 62
+      },
+      "phone": "(256)-552-2533",
+      "id": {
+        "name": "SSN",
+        "value": "147-07-7540"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Ms",
+        "first": "Crystal",
+        "last": "Henderson"
+      },
+      "email": "crystal.henderson@example.com",
+      "dob": {
+        "date": "1954-06-08T11:55:29.105Z",
+        "age": 66
+      },
+      "phone": "(707)-042-7587",
+      "id": {
+        "name": "SSN",
+        "value": "411-73-0292"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Miss",
+        "first": "Clara",
+        "last": "Mitchell"
+      },
+      "email": "clara.mitchell@example.com",
+      "dob": {
+        "date": "1960-03-03T23:15:31.458Z",
+        "age": 60
+      },
+      "phone": "(021)-334-1221",
+      "id": {
+        "name": "SSN",
+        "value": "718-60-0454"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/77.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Ethan",
+        "last": "Peterson"
+      },
+      "email": "ethan.peterson@example.com",
+      "dob": {
+        "date": "1960-05-25T01:52:29.752Z",
+        "age": 60
+      },
+      "phone": "(594)-131-4734",
+      "id": {
+        "name": "SSN",
+        "value": "588-52-0114"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Zachary",
+        "last": "Miles"
+      },
+      "email": "zachary.miles@example.com",
+      "dob": {
+        "date": "1995-02-09T09:03:45.392Z",
+        "age": 25
+      },
+      "phone": "(353)-738-5899",
+      "id": {
+        "name": "SSN",
+        "value": "993-95-9233"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/9.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Miss",
+        "first": "Hazel",
+        "last": "Taylor"
+      },
+      "email": "hazel.taylor@example.com",
+      "dob": {
+        "date": "1963-09-27T10:05:15.734Z",
+        "age": 57
+      },
+      "phone": "(038)-823-5080",
+      "id": {
+        "name": "SSN",
+        "value": "141-68-1665"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Randall",
+        "last": "Rodriguez"
+      },
+      "email": "randall.rodriguez@example.com",
+      "dob": {
+        "date": "1991-06-07T03:25:30.038Z",
+        "age": 29
+      },
+      "phone": "(151)-092-4842",
+      "id": {
+        "name": "SSN",
+        "value": "957-18-9631"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Jesse",
+        "last": "Richards"
+      },
+      "email": "jesse.richards@example.com",
+      "dob": {
+        "date": "1950-12-14T13:45:58.521Z",
+        "age": 70
+      },
+      "phone": "(983)-863-8547",
+      "id": {
+        "name": "SSN",
+        "value": "110-40-8277"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/39.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Mitchell",
+        "last": "Simpson"
+      },
+      "email": "mitchell.simpson@example.com",
+      "dob": {
+        "date": "1996-04-18T02:34:17.515Z",
+        "age": 24
+      },
+      "phone": "(789)-629-5627",
+      "id": {
+        "name": "SSN",
+        "value": "658-07-8637"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/57.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Brent",
+        "last": "Peters"
+      },
+      "email": "brent.peters@example.com",
+      "dob": {
+        "date": "1977-11-30T21:15:38.746Z",
+        "age": 43
+      },
+      "phone": "(762)-830-5115",
+      "id": {
+        "name": "SSN",
+        "value": "859-37-8404"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/45.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mrs",
+        "first": "Sue",
+        "last": "Vargas"
+      },
+      "email": "sue.vargas@example.com",
+      "dob": {
+        "date": "1993-01-05T03:00:53.650Z",
+        "age": 27
+      },
+      "phone": "(653)-080-1252",
+      "id": {
+        "name": "SSN",
+        "value": "061-43-3663"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/19.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Richard",
+        "last": "Welch"
+      },
+      "email": "richard.welch@example.com",
+      "dob": {
+        "date": "1995-01-13T12:59:18.010Z",
+        "age": 25
+      },
+      "phone": "(720)-276-3238",
+      "id": {
+        "name": "SSN",
+        "value": "140-14-4023"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/79.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Miss",
+        "first": "Willie",
+        "last": "Dean"
+      },
+      "email": "willie.dean@example.com",
+      "dob": {
+        "date": "1977-08-04T20:27:01.178Z",
+        "age": 43
+      },
+      "phone": "(250)-177-3167",
+      "id": {
+        "name": "SSN",
+        "value": "824-07-7525"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/65.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+      }
+    }
+  ],
+  "info": {
+    "seed": "4d8ac6652f382dfa",
+    "results": 20,
+    "page": 1,
+    "version": "1.3"
+  }
+}
