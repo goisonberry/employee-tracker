@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import SearchArea from "../SearchArea";
 import TableArea from "../TableArea";
 import API from "../../utils/API.js";
-// import DataFile from "../../utils/data.json";
 import "./style.css";
 
 export default class Main extends Component {
@@ -12,7 +11,6 @@ export default class Main extends Component {
     filteredEmployees: [],
   };
   componentDidMount() {
-    // add the fall back here for data.json
     API.employeeInfo().then((data) => {
       console.log("data", data);
       this.setState({
