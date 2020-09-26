@@ -27,7 +27,7 @@ export default class Main extends Component {
         .toLowerCase()
         .includes(nameSearch.toLowerCase());
     });
-    this.setState({ employees: empLookingFor });
+    this.setState({ filteredEmployees: empLookingFor });
   };
   sortLastName = () => {
     // add state to say what the current state of function (A and D order)..use if else, sort function pass it a compare function inside the sort function.
