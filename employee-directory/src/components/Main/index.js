@@ -21,6 +21,11 @@ export default class Main extends Component {
   }
   employeeSearch = (event) => {
     // get what they input event.target.value....use filter to filer all employees this.state.employees.filter (keep lower and uppercase in mind)
+    let nameSeach = event.target.value;
+    let empLookingFor = employees.filter((foundEmp) => {
+      return foundEmp.lastName.toLowercase().includes(nameSeach.toLowercase());
+    });
+    this.setState({ employees: empLookingFor });
   };
   sortLastName = () => {
     // add state to say what the current state of function (A and D order)..use if else, sort function pass it a compare function inside the sort function.
