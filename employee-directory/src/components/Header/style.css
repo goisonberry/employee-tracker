@@ -1,13 +1,14 @@
+.header,
+h2 {
+  padding-top: 25px;
+  font-size: 70px;
+}
 .header {
   background-color: rgb(12, 104, 12);
   color: black;
+
   height: 175px;
   background-size: cover;
   background-position: center;
   position: relative;
-}
-
-.header,
-h2 {
-  padding-top: 25px;
 }
