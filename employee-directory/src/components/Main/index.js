@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import SearchArea from "../SearchArea";
 import TableArea from "../TableArea";
-// import API from "../../utils/API.js";
 import API from "../../utils/API.js";
 // import DataFile from "../../utils/data.json";
 import "./style.css";

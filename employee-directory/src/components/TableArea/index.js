@@ -3,7 +3,7 @@ import "./style.css";
 
 function TableArea(props) {
   return (
-    <table>
+    <table className="table">
       <thead>
         <tr>
           <th>ID</th>
