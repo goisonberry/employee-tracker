@@ -10,6 +10,7 @@ function TableArea(props) {
           <th>Image</th>
           <th onClick={props.sortLastName}>Name</th>
           <th>Phone</th>
+          <th>Email</th>
           <th>DOB</th>
         </tr>
       </thead>

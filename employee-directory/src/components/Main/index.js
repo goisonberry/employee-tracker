@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import SearchArea from "../SearchArea";
 import TableArea from "../TableArea";
+// import API from "../../utils/API.js";
 import API from "../../utils/API.js";
-import "../../utils/data.json";
+// import DataFile from "../../utils/data.json";
 import "./style.css";
 
 export default class Main extends Component {
@@ -21,6 +22,7 @@ export default class Main extends Component {
       });
     });
   }
+
   employeeSearch = (event) => {
     // get what they input event.target.value....use filter to filer all employees this.state.employees.filter (keep lower and uppercase in mind)
     let nameSeach = event.target.value;
